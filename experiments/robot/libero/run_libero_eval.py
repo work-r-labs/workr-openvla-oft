@@ -17,7 +17,7 @@ from typing import Optional, Union
 import draccus
 import numpy as np
 import tqdm
-from libero.libero import benchmark
+# from libero.libero import benchmark
 
 import wandb
 
